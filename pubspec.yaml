@@ -33,6 +33,10 @@ dependencies:
     sdk: flutter
   get: ^4.3.8
   get_storage: ^2.0.3
+  google_fonts: ^2.1.0
+  logger: ^1.1.0
+  onesignal_flutter: ^3.2.3
+  sawo: ^0.1.2
   velocity_x: ^3.3.0
 
 dev_dependencies:
